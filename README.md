@@ -1,4 +1,4 @@
-MP3 Player - FCC Project
+# MP3 Player - FCC Project
 This project is designed to help you learn essential string and array methods in JavaScript, such as find(), forEach(), map(), and join(), which are crucial for developing dynamic web applications. You'll be building a basic MP3 player using HTML, CSS, and JavaScript.
 
 Getting Started

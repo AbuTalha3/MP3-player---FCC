@@ -34,7 +34,7 @@ Include a link to a live demo of your MP3 player if you have one deployed online
 # License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-Acknowledgements
+# Acknowledgements
 This project is inspired by the FCC curriculum and aims to provide practical experience with JavaScript string and array methods in a real-world application.
 Special thanks to FreeCodeCamp for their valuable resources and tutorials on web development.
 Feel free to enhance and customize your MP3 player as you learn and experiment with JavaScript string and array methods. Happy coding!

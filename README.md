@@ -9,7 +9,7 @@ Project Structure
 index.html: This file contains the structure of your MP3 player interface. You'll define the layout, buttons, playlist, and other elements here.
 styles.css: The CSS file where you can style your HTML elements, including fonts, colors, layouts, and player controls.
 script.js: This is where you'll write your JavaScript code to handle MP3 player functionality, such as playing songs, pausing, skipping tracks, displaying the playlist, and managing audio controls.
-MP3 Player Features
+# MP3 Player Features
 Your MP3 player may include the following features:
 
 Playlist Management: Load and display a list of MP3 files to create a playlist.

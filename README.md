@@ -23,7 +23,7 @@ Open the index.html file in your web browser to launch the MP3 player.
 Use the player controls (play, pause, stop, volume slider, track navigation) to interact with the audio tracks.
 Click on tracks in the playlist to select and play them.
 Explore additional features you've implemented, such as track progress display and dynamic UI updates.
-Resources
+# Resources
 FreeCodeCamp (FCC): https://www.freecodecamp.org/
 MDN Web Docs - JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 W3Schools - CSS Tutorial: https://www.w3schools.com/css/

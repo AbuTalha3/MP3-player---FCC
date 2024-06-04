@@ -13,7 +13,7 @@ script.js: This is where you'll write your JavaScript code to handle MP3 player 
 Your MP3 player may include the following features:
 
 # Playlist Management: 
-Load and display a list of MP3 files to create a playlist.
+'Load and display' a list of MP3 files to create a playlist.
 Audio Controls: Implement play, pause, stop, volume control, and track progress functionalities.
 Track Navigation: Allow users to skip to the next or previous track in the playlist.
 Dynamic UI Updates: Update the UI to show the currently playing track, track duration, and progress bar.

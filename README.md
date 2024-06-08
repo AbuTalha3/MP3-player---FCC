@@ -4,7 +4,7 @@ This project is designed to help you learn essential string and array methods in
 # Getting Started
 Clone or download this repository to your local machine.
 Open the project directory in your preferred code editor.
-Modify the index.html, styles.css, and script.js files to implement your MP3 player functionality.
+Modify the index.html, 'styles.css', and script.js files to implement your MP3 player functionality.
 Project Structure
 index.html: This file contains the structure of your MP3 player interface. You'll define the layout, buttons, playlist, and other elements here.
 styles.css: The CSS file where you can style your HTML elements, including fonts, colors, layouts, and player controls.
